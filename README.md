@@ -1,1 +1,2 @@
 # typecho-emotion
+将handsome主题评论表情放在码云或者github上，通过修改OwO.min.js中的主题加载路径进而实现直接调用码云或者github上存储的图片表情
